@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "553746748190",
+    "project_id": "first-firebase-lesson",
+    "storage_bucket": "first-firebase-lesson.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:553746748190:android:71f2d66548c0c9e35a2f0f",
+        "android_client_info": {
+          "package_name": "com.example.firebasesettings"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "553746748190-f3kohbrgkun9jirembb8kv048sd4kcke.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqtEepGBpxst7qEyFcPJYaW7EdzRpCx-4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "553746748190-f3kohbrgkun9jirembb8kv048sd4kcke.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
